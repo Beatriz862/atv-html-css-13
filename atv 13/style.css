@@ -1,0 +1,13 @@
+h1 { background-color: rgba(54, 22, 83, 0.753);
+font-size: 45px;
+text-align: center ;
+}
+h2{background-color: rgba(128, 83, 170, 0.459);}
+
+body{ 
+    width:600px;
+    margin:0 auto;
+    padding: 0 20px 20px 20px;
+    background-color: aliceblue;
+background-image: url(https://i.pinimg.com/564x/14/ae/a7/14aea7b28867d3d99106b14366f1a9a2.jpg) ;
+}
